@@ -22,9 +22,9 @@ Because of the length of this history and the conscious efforts to suppress it, 
 
 # Cool Websites
 
-Native Land Map – this website shows the territories of tribal nations and peoples throughout the world. Very useful for land acknowledgements.
+[Native Land Map](https://native-land.ca/) – this website shows the territories of tribal nations and peoples throughout the world. Very useful for land acknowledgements.
 
-Native Languages – One of the more comprehensive sites detailing native languages and history throughout the Americas 
+[Native Languages](http://www.native-languages.org/languages.htm) – One of the more comprehensive sites detailing native languages and history throughout the Americas 
 
 # Land Acknowledgement 
 
