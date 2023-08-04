@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Project One'
+title: 'Virginia'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+Three main cultural groups lived in what is now Virginia: the Iroquoian, the Eastern Siouan and the Algonquian. Each of these cultures consisted of numerous tribes. In eastern Virginia, a chief named Wahunsenacawh created an association of thirty tribes. Colonists named them the Powhatan after the village of Wahunsenacawh, which was likely in the vicinity of present-day Richmond. The Siouan Monacan lived to the west of the Powhatan in dome-shaped homes made of bark and reed. These peoples mined and traded copper to neighboring tribes and buried their dead in mounds. The Iroquoian Tuscarora lived in the western part of the state, migrating from the peninsula that Delaware sits on. 
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
+{% include image.html url="https://www.redbubble.com/i/art-print/Virginia-as-a-fantasy-map-by-aldayuan/76872958.1G4ZT?asc=u" image="projects/Virginia map with background.png" %}
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+{% include image.html url="https://www.redbubble.com/i/art-print/Virginia-as-a-fantasy-map-black-and-white-by-aldayuan/76873161.1G4ZT?asc=u" image="projects/Virginia map black and white.png" %}
