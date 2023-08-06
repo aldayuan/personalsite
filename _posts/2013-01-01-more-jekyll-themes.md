@@ -1,22 +1,14 @@
 ---
 layout: post
-title: "More Jekyll Themes!"
+title: 'Texas'
 ---
 
-#### Lagrange
+At various times, the area that is now Texas was home to the Pueblo, the Mound Builders of the Mississippi culture and Mesoamerican civilizations, centered to the south. In time, the Caddoan peoples spread throughout the Red River watershed, forming confederacies: Natchitoches, Hasinai, Wichita, Kadohadocho. The name of Texas comes from taysha, a word in the language of the Hasinai which means “friends” or “allies.” The Caddoans are descended from the Mississippian culture. They built large earthen structures, leveled off at the top, around flat, open plazas. Surplus maize allowed dense settlement and the arts flourished during the 12th and 13th centuries. The unbroken cultural tradition survives to this day in the Caddo Nation, which was forced onto a reservation in Texas and then forcibly removed once more to Oklahoma.  
+<br>
+[Full size digital copies](https://aldayuan.itch.io/texas-as-a-fantasy-map)
 
-Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.
+{% include image.html url="https://www.redbubble.com/i/art-print/Texas-as-a-fantasy-map-by-aldayuan/88746671.1G4ZT?asc=u" image="projects/Texas map with background.png" %}
+[Canvas print](https://www.redbubble.com/i/art-print/Texas-as-a-fantasy-map-by-aldayuan/88746671.1G4ZT?asc=u)
 
-Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">how to use install</a> and use the theme.
-
-#### Millennial
-
-Millennial is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for a publication or blog.
-
-Feel free to check out <a href="https://lenpaul.github.io/Millennial/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Millennial/documentation/getting-started.html">how to use install</a> and use the theme.
-
-#### Jekyll Starter Kit
-
-The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
-
-Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
+{% include image.html url="https://www.redbubble.com/i/art-print/Texas-as-a-fantasy-map-black-and-white-by-aldayuan/88746918.1G4ZT?asc=u" image="projects/Texas map black and white.png" %}
+[Black and white print](https://www.redbubble.com/i/art-print/Texas-as-a-fantasy-map-black-and-white-by-aldayuan/88746918.1G4ZT?asc=u)
