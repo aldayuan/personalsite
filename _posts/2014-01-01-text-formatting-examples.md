@@ -8,7 +8,9 @@ Three main cultural groups lived in what is now Virginia: the Iroquoian, the Eas
 <br>
 
 {% include image.html url="https://www.redbubble.com/i/art-print/Virginia-as-a-fantasy-map-by-aldayuan/76872958.1G4ZT?asc=u" image="projects/Virginia map with background.png" %}
+
 [Canvas print](https://www.redbubble.com/i/art-print/Virginia-as-a-fantasy-map-by-aldayuan/76872958.1G4ZT?asc=u)
 
 {% include image.html url="https://www.redbubble.com/i/art-print/Virginia-as-a-fantasy-map-black-and-white-by-aldayuan/76873161.1G4ZT?asc=u" image="projects/Virginia map black and white.png" %}
+
 [Black and white print](https://www.redbubble.com/i/art-print/Virginia-as-a-fantasy-map-black-and-white-by-aldayuan/76873161.1G4ZT?asc=u)
