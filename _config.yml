@@ -10,3 +10,4 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 title:		   "Integral States Project"
 description: "Fantasy maps of US states and territories"
 author:      "Alda Yuan"
+url: "https://integralstatesproject.com"
