@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: 'Home', url: ''}
+- {name: 'Home',     url: ''}
 - {name: 'Maps',     url: 'blog'}
 - {name: 'About',    url: 'about'}
 
