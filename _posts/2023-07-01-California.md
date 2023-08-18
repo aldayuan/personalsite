@@ -11,4 +11,4 @@ More than a hundred tribes have called present-day California home. Perhaps due 
 [Canvas print](https://fineartamerica.com/featured/california-as-a-fantasy-map-parchment-alda-yuan.html?newartwork=true)
 
 {% include image.html url="https://fineartamerica.com/featured/california-as-a-fantasy-map-black-and-white-alda-yuan.html?newartwork=true" image="projects/California map black and white.png" %}
-[Canvas print](https://fineartamerica.com/featured/california-as-a-fantasy-map-black-and-white-alda-yuan.html?newartwork=true)
+[Black and white print](https://fineartamerica.com/featured/california-as-a-fantasy-map-black-and-white-alda-yuan.html?newartwork=true)
