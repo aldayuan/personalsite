@@ -1,10 +1,15 @@
 ---
 layout: post
-title: 'Virginia'
+title: 'Art'
 ---
-Three main cultural groups lived in what is now Virginia: the Iroquoian, the Eastern Siouan and the Algonquian. Each of these cultures consisted of numerous tribes. In eastern Virginia, a chief named Wahunsenacawh created an association of thirty tribes. Colonists named them the Powhatan after the village of Wahunsenacawh, which was likely in the vicinity of present-day Richmond. The Siouan Monacan lived to the west of the Powhatan in dome-shaped homes made of bark and reed. These peoples mined and traded copper to neighboring tribes and buried their dead in mounds. The Iroquoian Tuscarora lived in the western part of the state, migrating from the peninsula that Delaware sits on. 
+More than half of the fifty states trace their names back to native peoples. Yet the public-school version of history often assumes these states sprang into being only when colonizers mapped and labeled them, ignoring the thousands of years of history that preceded those moments. To explore this, I reimagine the fifty states and the various territories as fantasy realms. The outlines of these maps seem arbitrary when grafted onto an alternate reality, but this highlights how borders are products and agents of history in our own world. For tribal nations, state borders were often violent, dividing communities, cutting ancestral lands into pieces, erasing the history that came before them. In calculus, taking the integral means to find the area underneath a curve. Therefore, this project seeks to unearth some of the stories that came before the borders and each map is accompanied by a very brief pre-colonial history. 
+
+ 
+
+Images are free to use for non-commercial purposes such as for table top role playing games. Full size images are available at itch.io and prints are available at fineartamerica, with proceeds to native organizations. 
+
 <br>
-[Full size digital copies](https://aldayuan.itch.io/virginia-as-a-fantasy-map)
+[Visit the site](https://www.integralstatesproject.com)
 <br>
 
 {% include image.html url="https://www.redbubble.com/i/art-print/Virginia-as-a-fantasy-map-by-aldayuan/76872958.1G4ZT?asc=u" image="projects/Virginia map with background.png" %}
