@@ -13,9 +13,3 @@ To that end, I've written a DIY Guide, first to help explain why everyone can an
 <br>
 
 [PDF](https://drive.google.com/file/d/1OcN9hUMLzCLPsUota_BzY6dcnNmJjNUZ/view?usp=sharing) | [Google Doc](https://docs.google.com/document/d/1CfNk9XHlb-KVwYtRgGbBkz229K5s83m9xwJiM_1uK3g/edit) | As [Articles](https://withalever.imprint.to/post/with-a-lever-intro-1) 
-[Full size digital copies](https://aldayuan.itch.io/florida-as-a-fantasy-map)
-{% include image.html url="https://www.redbubble.com/i/art-print/Florida-as-a-fantasy-map-by-aldayuan/71881135.1G4ZT?asc=u" image="projects/Florida map with background.png" %}
-[Canvas print](https://www.redbubble.com/i/art-print/Florida-as-a-fantasy-map-by-aldayuan/71881135.1G4ZT?asc=u)
-
-{% include image.html url="https://www.redbubble.com/i/art-print/Florida-as-a-fantasy-map-black-and-white-by-aldayuan/71881400.1G4ZT?asc=u" image="projects/Florida map black and white.png" %}
-[Black and white print](https://www.redbubble.com/i/art-print/Florida-as-a-fantasy-map-black-and-white-by-aldayuan/71881400.1G4ZT?asc=u)
