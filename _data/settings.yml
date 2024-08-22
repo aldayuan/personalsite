@@ -3,18 +3,18 @@
 
 menu:
 - {name: 'Home', url: ''}
-- {name: 'Maps',     url: 'blog'}
+#- {name: 'Maps',     url: 'blog'}
 - {name: 'About',    url: 'about'}
 
 #-------------------------------
 # Projects Section
 
 projects:
-- {name: 'Virginia',   url: 'proj-1'}
-- {name: 'California',   url: 'proj-2'}
-- {name: 'Texas', url: 'proj-3'}
-- {name: 'Michigan',  url: 'proj-4'}
-- {name: 'Florida',  url: 'proj-5'}
+- {name: 'Art',   url: 'proj-1'}
+- {name: 'Writing',   url: 'proj-2'}
+- {name: 'Scholarship', url: 'proj-3'}
+- {name: 'Game Design',  url: 'proj-4'}
+- {name: 'Institutional Change Guide',  url: 'proj-5'}
 
 #-------------------------------
 # Contact Section
@@ -32,7 +32,7 @@ projects:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Portfolio of fantasy maps from US states'
+  description: 'personal site'
   rel-author: 'https://plus.google.com/u/0/#'
   rel-publisher: 'https://plus.google.com/u/0/#'
 
