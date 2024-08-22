@@ -12,8 +12,4 @@ Images are free to use for non-commercial purposes such as for table top role pl
 [Visit the site](https://www.integralstatesproject.com)
 <br>
 
-{% include image.html url="https://www.redbubble.com/i/art-print/Virginia-as-a-fantasy-map-by-aldayuan/76872958.1G4ZT?asc=u" image="projects/Virginia map with background.png" %}
-[Canvas print](https://www.redbubble.com/i/art-print/Virginia-as-a-fantasy-map-by-aldayuan/76872958.1G4ZT?asc=u)
-
-{% include image.html url="https://www.redbubble.com/i/art-print/Virginia-as-a-fantasy-map-black-and-white-by-aldayuan/76873161.1G4ZT?asc=u" image="projects/Virginia map black and white.png" %}
-[Black and white print](https://www.redbubble.com/i/art-print/Virginia-as-a-fantasy-map-black-and-white-by-aldayuan/76873161.1G4ZT?asc=u)
+{% include image.html text =" " image="projects/usmap.jpg" %}
