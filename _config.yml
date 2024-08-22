@@ -7,6 +7,6 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		   "Integral States Project"
-description: "Fantasy maps of US states and territories"
+title:		   "Alda Yuan"
+description: "A personal site"
 author:      "Alda Yuan"
