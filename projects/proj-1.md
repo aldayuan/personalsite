@@ -9,7 +9,9 @@ More than half of the fifty states trace their names back to native peoples. Yet
 Images are free to use for non-commercial purposes such as for table top role playing games. Full size images are available at itch.io and prints are available at fineartamerica, with proceeds to native organizations. 
 
 <br>
+
 [Visit the site](https://www.integralstatesproject.com)
+
 <br>
 
 {% include image.html text =" " image="projects/usmap.jpg" %}
