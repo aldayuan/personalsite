@@ -1,11 +1,18 @@
 ---
 layout: post
-title: 'Florida'
+title: 'Institutional Change Guide'
 ---
 
-When the first peoples arrived in what is now Florida during the last glacial period, sea levels were lower and the peninsula much wider. Freshwater was scarce and so people gathered around sinkholes and rain catchment basins. By the 16th century, the peninsula was populated by dozens of distinct tribes and peoples. The Apalachee were one of the larger tribes, with over 50,000 people living in the area between the Aucilla and Ochlockonee Rivers. They lived in large and dense settlements made possible by agricultural cultivation and participated in a trade network that extended up to the Great Lakes and west to present-day Oklahoma. Some of the tribe’s descendants, who refer to themselves as the Talimali Band of Apalachee, live in Louisiana. 
+This guide is meant for folks working to shift the institutions they are already part of toward greater inclusivity, anti-racism, and racial equity. As racial injustice and anti-Blackness are systemic, that means all institutions, big and small, are affected. At every institution I have been a part of, it has been the discomfort, sorrow, disappointment, frustration, and mutual solidarity of Black folx and other marginalized people that have pushed it toward progress.  
 
+Yet this critical work is extremely emotionally taxing. Not only is it painful to discuss deeply personal issues, those who speak up are also worried about being seen as unprofessional, as not team players. This means that those in places of relative privilege and safety need to speak up and do more. But I know organizing for change within institutions is not easy because I've personally caused a lot of trouble for institutions unwilling to confront racial inequity. In the process, I've learned some lessons and want to pass them on.  
+
+To that end, I've written a DIY Guide, first to help explain why everyone can and should be trying to address racial equity at the institutions they are already a part of, and then to provide six concrete steps to advance racial equity at your institutions.  
+
+ 
 <br>
+
+[PDF](https://drive.google.com/file/d/1OcN9hUMLzCLPsUota_BzY6dcnNmJjNUZ/view?usp=sharing) | [Google Doc](https://docs.google.com/document/d/1CfNk9XHlb-KVwYtRgGbBkz229K5s83m9xwJiM_1uK3g/edit) | As [Articles](https://withalever.imprint.to/post/with-a-lever-intro-1) 
 [Full size digital copies](https://aldayuan.itch.io/florida-as-a-fantasy-map)
 {% include image.html url="https://www.redbubble.com/i/art-print/Florida-as-a-fantasy-map-by-aldayuan/71881135.1G4ZT?asc=u" image="projects/Florida map with background.png" %}
 [Canvas print](https://www.redbubble.com/i/art-print/Florida-as-a-fantasy-map-by-aldayuan/71881135.1G4ZT?asc=u)
