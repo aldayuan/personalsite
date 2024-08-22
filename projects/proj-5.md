@@ -12,8 +12,6 @@ To that end, I've written a DIY Guide, first to help explain why everyone can an
  
 <br>
 
- <ul>
-  <li> [PDF](https://drive.google.com/file/d/1OcN9hUMLzCLPsUota_BzY6dcnNmJjNUZ/view?usp=sharing) </li>
-  <li> [Google Doc](https://docs.google.com/document/d/1CfNk9XHlb-KVwYtRgGbBkz229K5s83m9xwJiM_1uK3g/edit) </li>
-  <li> [Articles](https://withalever.imprint.to/post/with-a-lever-intro-1)  </li>
-</ul> 
+[PDF](https://drive.google.com/file/d/1OcN9hUMLzCLPsUota_BzY6dcnNmJjNUZ/view?usp=sharing)
+[Google Doc](https://docs.google.com/document/d/1CfNk9XHlb-KVwYtRgGbBkz229K5s83m9xwJiM_1uK3g/edit)
+[Articles](https://withalever.imprint.to/post/with-a-lever-intro-1) 
