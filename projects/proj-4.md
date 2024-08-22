@@ -7,6 +7,7 @@ I'm an avid table top rpg player and have done some writing, editing, and conten
 [Crypts and Chimeras](https://aldayuan.itch.io/crypts-and-chimeras-1e) (writer) - a 1 page rules-lite fantasy RPG designed to help you start playing as quickly as possible, with as little fuss as possible  
  
 <br>
+
 [In*die zine](https://indie-zine.itch.io/)(writer and editor) - a zine with supplements for table top games and articles about game design.  
  <ul>
   <li>The Maven Guide (writer) - drop in locations for rpg games in the style of restaurant reviews </li>
@@ -15,6 +16,7 @@ I'm an avid table top rpg player and have done some writing, editing, and conten
 </ul> 
 
 <br>
+
 [Unbreakable RPG](https://t.co/vdYX5oZVb3?amp=1) (editor) - volumes that collect Asian myth and folklore themed adventures written for d&d 5e as well as other rpg systems   
 
 <br>
