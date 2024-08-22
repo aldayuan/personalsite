@@ -1,14 +1,26 @@
 ---
 layout: post
-title: 'Michigan'
+title: 'Game Design'
 ---
-The region that is now the state of Michigan was inhabited by peoples belonging to the Hopewell culture, widely dispersed populations which shared a network of trade routes extending from modern-day Florida up to the northern shores of Lake Ontario. Later, Algonquian speaking peoples from the east migrated in and formed large confederacies. For instance, the Chippewa (Ojibwe), the Odawa (which comes from a word that means “trade” or Ottawa), and Potawatomi tribes formed the Niswi-mishkodewinan or Council of Three Fires. The Council met for military and political purposes, including maintaining relationships with neighboring Anishinaabeg nations. The Chippewa called their land Mishi-Anishinaabaki and the state’s name comes from the Ojibwe word mishigami, which means “large water” or “large lake.” 
+I'm an avid table top rpg player and have done some writing, editing, and content creation for the hobby.  
+
+[Crypts and Chimeras](https://aldayuan.itch.io/crypts-and-chimeras-1e) (writer) - a 1 page rules-lite fantasy RPG designed to help you start playing as quickly as possible, with as little fuss as possible  
+ 
+<br>
+[In*die zine](https://indie-zine.itch.io/)(writer and editor) - a zine with supplements for table top games and articles about game design.  
+ <ul>
+  <li>The Maven Guide (writer) - drop in locations for rpg games in the style of restaurant reviews </li>
+  <li>Social Deconstruction (writer) - a game about gender identity </li>
+  <li>Unionize (editor) - a card game that simulates the process of creating a union  </li>
+</ul> 
 
 <br>
-[Full size digital copies](https://aldayuan.itch.io/michigan-as-a-fantasy-map)
+[Unbreakable RPG](https://t.co/vdYX5oZVb3?amp=1) (editor) - volumes that collect Asian myth and folklore themed adventures written for d&d 5e as well as other rpg systems   
 
-{% include image.html url="https://fineartamerica.com/featured/michigan-as-a-fantasy-map-alda-yuan.html?product=art-print" image="projects/Michigan map with background.png" %}
-[Canvas print](https://fineartamerica.com/featured/michigan-as-a-fantasy-map-alda-yuan.html?product=art-print)
+<br>
 
-{% include image.html url="https://fineartamerica.com/featured/michigan-as-a-fantasy-map-black-and-white-alda-yuan.html?product=art-print" image="projects/Michigan map black and white.png" %}
-[Black and white print](https://fineartamerica.com/featured/michigan-as-a-fantasy-map-black-and-white-alda-yuan.html?product=art-print)
+[Everglade Gladiators Recipe Book](https://www.dmsguild.com/product/314359/Everglade-Gladiators-Recipe-Book-Vol-1) (writer) - eight satirical recipes such as Abyssal Chicken & Waffles and Trollboar Bacon Strips for fantasy tabletop rpg settings, which can be used to fill out a tavern menu or serve as a basis for a silly sidequest. (Free Download) 
+
+<br>
+
+[Integral States Project](https://aldayuan.itch.io/) (artist, writer) - though this is an art project, the output is a series of US states and territories as fantasy maps, available as full size digital downloads on itch. The blank versions can be used for campaign maps.  
